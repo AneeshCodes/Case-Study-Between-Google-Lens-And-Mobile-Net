@@ -1,0 +1,23 @@
+body{
+  background-color: azure;
+}
+
+.test_image_and_result{
+  background-color: hotpink;
+  width: 500px;
+  float: none;
+  margin-top: 100px;
+  height: 300px;
+}
+
+.copy_right_footer{
+  bottom: 0;
+  position: fixed;
+  background-color: grey;
+  width: 100%;
+  text-align: center;
+}
+
+img{
+  height: 1000px;
+}
